@@ -1,0 +1,11 @@
+{
+    "title": "Human vs Anime Faces",
+    "id": "victorthamartian/human-vs-anime-faces-demo",
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "subtitle": "Combined dataset of human and anime faces",
+    "description": "This dataset contains human face images (CelebA) and anime-style face images (Anime Face Dataset) for binary classification, GANs, and image translation tasks."
+}
