@@ -9,7 +9,7 @@ A combined dataset of real human faces (CelebA) and anime-style faces for ML tas
 ## Citations
 If you use this dataset, pleace cite the original datasets and this combined version:
 
-#CelebA
+**CelebA**
 @inproceedings{liu2015deep,
   title={Deep Learning Face Attributes in the Wild},
   author={Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},
@@ -18,7 +18,7 @@ If you use this dataset, pleace cite the original datasets and this combined ver
   pages={3730--3738}
 }
 
-#Anime Face Dataset
+**Anime Face Dataset**
 @misc{spencer_churchill_brian_chao_2019,
 	title={Anime Face Dataset},
 	url={https://www.kaggle.com/ds/379764},
@@ -28,7 +28,7 @@ If you use this dataset, pleace cite the original datasets and this combined ver
 	year={2019}
 }
 
-#Human Faces Anime Faces (HFAF)
+**Human Faces Anime Faces (HFAF)**
 
 @misc{victor_umoren_2025,
   title={Human Faces Anime Faces (HFAF) Dataset},
